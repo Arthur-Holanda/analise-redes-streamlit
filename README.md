@@ -35,12 +35,12 @@ Para executar este projeto em sua máquina local, siga os passos abaixo:
 
 1.  **Clone este repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
+    git clone [https://github.com/Arthur-Holanda/analise-redes-streamlit.git](https://github.com/Arthur-Holanda/analise-redes-streamlit.git)
     ```
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd NOME-DO-SEU-REPOSITORIO
+    cd analise-redes-streamlit
     ```
 
 3.  **Crie um ambiente virtual (recomendado):**
@@ -60,3 +60,4 @@ Para executar este projeto em sua máquina local, siga os passos abaixo:
     ```
 
 Abra seu navegador e acesse o endereço local fornecido pelo Streamlit (geralmente `http://localhost:8501`).
+
